@@ -1,0 +1,104 @@
+.fullscreen{
+     background: url('Images/main.jpg');
+    background-size: cover;
+    /*top: 0;
+    left: 0;*/
+    width: 100%;
+    height: 600px;
+    font-variant: small-caps;
+}
+.x{
+    font-size: 22px;
+}
+.nav-last{
+    margin-right: 100px;
+}
+.main{
+    height: 600px;
+    width: 100%;
+}
+.vicky{
+    height: 300px;
+    background-color: black;
+}
+.card img{
+    height: 230px;
+    width: 100%;
+
+}
+.card{
+    font-variant: small-caps;
+    margin: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.fruits img{
+    height: 230px;
+    margin-top: 30px;
+}
+.fruits p{
+    line-height: 45px;
+    font-weight: bold;
+}
+.hot img{
+    height: 230px;
+    margin-top: 30px;
+}
+.hot{
+    line-height: 45px;
+    font-weight: bold;
+
+}
+.quote{
+    font-variant: small-caps;
+    color: purple ;
+    font-weight: bold;
+}
+.icecreams img{
+    height: 200px;
+}
+.icecreams p{
+    font-weight: bold;
+    font-variant: small-caps;
+/*    margin-top: 50px;*/
+    text-align: center;
+}
+
+.drinks img{
+    height: 180px;
+    width: 100%;
+}
+
+.candies img{
+    height: 100px;
+    width: 120px;
+    border-radius: 50%;
+}
+.candies p{
+    font-variant: small-caps;
+    font-size: 22px;
+}
+.cakes img{
+    height: 250px;
+    width: 100%;
+}
+.cakes p{
+    font-size: 22px;
+    font-style: italic;
+}
+
+.cupcakes img{
+    height: 200px;
+    width: 100%;
+}
+.foot{
+    background-color: whitesmoke;
+    height: 200px;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+}
+.footer img{
+    height: 150px;
+}
